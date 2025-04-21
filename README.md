@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning full stack deployment
 - 💞️ I’m looking to collaborate on open source projects!
 - ⚡ Fun fact: I enjoy climbing mountains and scaling cliffs
+- 📧 Contact me at sandef3@farmingdale.edu
 
 <br/>
 <br/> 
