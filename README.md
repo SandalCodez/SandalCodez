@@ -8,7 +8,7 @@
 <br/> 
 
 - 👋 Hi, I’m @SandalCodez
-- 👀 I’m interested in software development, data science, artificial intelligence and cybersecurity.
+- 👀 I’m interested in software development, data science, artificial intelligence, everything backend and cybersecurity.
 - 🌱 I’m currently learning full stack deployment
 - 💞️ I’m looking to collaborate on open source projects!
 - ⚡ Fun fact: I enjoy climbing mountains and scaling cliffs
